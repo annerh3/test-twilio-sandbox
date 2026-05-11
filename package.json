@@ -9,9 +9,20 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.105.4",
+    "add": "^2.0.6",
+    "button": "^1.1.1",
+    "card": "^2.5.4",
+    "input": "^1.0.1",
+    "label": "^0.2.2",
     "next": "16.2.6",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "shadcn": "^4.7.0",
+    "sonner": "^2.0.7",
+    "tabs": "^0.2.0",
+    "tailwind": "^4.0.0",
+    "twilio": "^6.0.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
